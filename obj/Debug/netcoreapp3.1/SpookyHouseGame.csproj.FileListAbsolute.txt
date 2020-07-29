@@ -1,0 +1,13 @@
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.csprojAssemblyReference.cache
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.AssemblyInfoInputs.cache
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.AssemblyInfo.cs
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.csproj.CoreCompileInputs.cache
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame.deps.json
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame.runtimeconfig.json
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame.runtimeconfig.dev.json
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame.dll
+/home/bram/CSharpProjects/SpookyHouseGame/bin/Debug/netcoreapp3.1/SpookyHouseGame.pdb
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.dll
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.pdb
+/home/bram/CSharpProjects/SpookyHouseGame/obj/Debug/netcoreapp3.1/SpookyHouseGame.genruntimeconfig.cache
